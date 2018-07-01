@@ -9,4 +9,6 @@ There are 2 folders:
 
 - twiddlywinks: Given an area that has a number of non overlapping disks scattered about its surface, use a genetic algorithm to find the disk of largest radius which may be placed amongst these disks without overlapping any of them
 
+Enjoy!
+
 
